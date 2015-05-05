@@ -14,8 +14,8 @@ SOURCES += \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlhelpers.cpp \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlobjectlistmodel.cpp \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlsvgiconhelper.cpp \
-    lyrics-chords-editor/libQtQmlTricks/src/qquickpolygon.cpp \
-    lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel.cpp
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qquickpolygon.cpp \
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel.cpp
 
 HEADERS += \
     $$PWD/lyrics-chords-editor/SharedObject.h \
@@ -24,10 +24,10 @@ HEADERS += \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlobjectlistmodel_p.h \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlobjectlistmodel.h \
     $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlsvgiconhelper.h \
-    lyrics-chords-editor/libQtQmlTricks/src/qquickpolygon.h \
-    lyrics-chords-editor/libQtQmlTricks/src/qtcobs.h \
-    lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel_p.h \
-    lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel.h
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qquickpolygon.h \
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qtcobs.h \
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel_p.h \
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/src/qqmlvariantlistmodel.h
 
 RESOURCES += \
     $$PWD/harbour-lyricschords.qrc \
@@ -38,3 +38,5 @@ OTHER_FILES += \
     $$PWD/rpm/harbour-lyricschords.yaml \
     $$PWD/harbour-lyricschords.desktop
 
+QML_IMPORT_PATH += \
+    $$PWD/lyrics-chords-editor/libQtQmlTricks/import

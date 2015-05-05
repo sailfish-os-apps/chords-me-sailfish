@@ -21,5 +21,7 @@
         <file>lyrics-chords-editor/icons/up.svg</file>
         <file>lyrics-chords-editor/icons/warning.svg</file>
         <file>lyrics-chords-editor/LyricsChordsEditor.qml</file>
+        <file>lyrics-chords-editor/icons/sun.svg</file>
+        <file>lyrics-chords-editor/icons/moon.svg</file>
     </qresource>
 </RCC>

@@ -18,7 +18,6 @@ ApplicationWindow {
 
             LyricsChordsEditor {
                 anchors.fill: parent;
-                Component.onCompleted: { console.log (Theme.fontFamilyHeading); }
             }
         }
     }

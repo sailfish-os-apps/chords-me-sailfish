@@ -16,8 +16,8 @@ Summary:    Lyrics & Chords
 Version:    1.0.0
 Release:    1
 Group:      Qt/Qt
-License:    LICENSE
-URL:        http://example.org/
+License:    LGPLv2
+URL:        http://gitlab.unique-conception.org/apps-4-sailfish/chords-me
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-lyricschords.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
@@ -28,7 +28,7 @@ BuildRequires:  pkgconfig(Qt5Quick)
 BuildRequires:  desktop-file-utils
 
 %description
-Short description of my SailfishOS Application
+A nice app to create lyrics & chords documents, with ability to transpose on-the-fly, and display chords using several different notations...
 
 
 %prep
