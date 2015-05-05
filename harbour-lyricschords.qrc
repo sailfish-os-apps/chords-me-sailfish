@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>harbour-lyricschords.qml</file>
+        <file>lyrics-chords-editor/icons/add.svg</file>
+        <file>lyrics-chords-editor/icons/apply.svg</file>
+        <file>lyrics-chords-editor/icons/close.svg</file>
+        <file>lyrics-chords-editor/icons/copy.svg</file>
+        <file>lyrics-chords-editor/icons/down.svg</file>
+        <file>lyrics-chords-editor/icons/edit.svg</file>
+        <file>lyrics-chords-editor/icons/home.svg</file>
+        <file>lyrics-chords-editor/icons/info.svg</file>
+        <file>lyrics-chords-editor/icons/left.svg</file>
+        <file>lyrics-chords-editor/icons/new.svg</file>
+        <file>lyrics-chords-editor/icons/open.svg</file>
+        <file>lyrics-chords-editor/icons/redo.svg</file>
+        <file>lyrics-chords-editor/icons/remove.svg</file>
+        <file>lyrics-chords-editor/icons/right.svg</file>
+        <file>lyrics-chords-editor/icons/save.svg</file>
+        <file>lyrics-chords-editor/icons/settings.svg</file>
+        <file>lyrics-chords-editor/icons/undo.svg</file>
+        <file>lyrics-chords-editor/icons/up.svg</file>
+        <file>lyrics-chords-editor/icons/warning.svg</file>
+        <file>lyrics-chords-editor/LyricsChordsEditor.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/GridContainer.qml</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/IconTextButton.qml</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/qmldir</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/QtCoreApi.js</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/RowContainer.qml</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/ScrollContainer.qml</file>
+        <file>lyrics-chords-editor/libQtQmlTricks/import/QtQmlTricks/WrapLeftRightContainer.qml</file>
+    </qresource>
+</RCC>

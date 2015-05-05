@@ -1,0 +1,3 @@
+[submodule "lyrics-chords-editor"]
+	path = lyrics-chords-editor
+	url = http://gitlab.unique-conception.org/qt-small-apps/lyrics-chords-editor.git
